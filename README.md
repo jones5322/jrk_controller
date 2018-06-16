@@ -1,6 +1,6 @@
 # Al Jones - JRK motor controller
 
-[![N|Solid](http://rosagriculture.org/img/profile.png)](http://rosagriculture.org/)
+[![N|Solid](http://rosagriculture.org/img/profile.png = 150x150)](http://rosagriculture.org/)
 
 This is a ROS node and python code for testing Pololu JRK controllers.
 
