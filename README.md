@@ -10,3 +10,5 @@ This is a ROS node and python code for testing Pololu JRK controllers.
 This is expected to be used as a component of the broader [ROS Agriculture](http://rosagriculture.org/) work.
 
 See [link](https://docs.google.com/document/d/13zwPqUQua0znNe7Tc-obWEOj4JKBY63cQcQG3Cpns2E/edit?usp=sharing) for further details about implementing and testing this code.
+
+#This has only been used for testing.  
