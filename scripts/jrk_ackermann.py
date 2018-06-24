@@ -23,7 +23,7 @@ def translate(sensor_val, in_from, in_to, out_from, out_to):  # not used yet, un
     return out_val
 
 def get_target (msg):
-    print 'left - right', msg.drive.steering_angle
+    print 'drive.steering_angle', msg.drive.steering_angle
 
 rospy.init_node('my_jrk_joystick_ackermann')
 sub = rospy.Subscriber ('/ackermann_cmd', AckermannDriveStamped, get_target)
